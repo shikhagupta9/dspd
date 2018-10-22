@@ -16,6 +16,6 @@ typedef struct
 	 item_details special_day[7];	
 	char name[100];
 	char address[100];	//stores only area of the restaurant
-	//int key;	optional
+	//int key;	optional/
 }restaurant;
 
